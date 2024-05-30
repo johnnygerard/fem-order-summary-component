@@ -19,11 +19,7 @@ import { ChangeDetectionStrategy, Component } from "@angular/core";
       />
     </svg>
   `,
-  styles: `
-    :host {
-      display: block;
-    }
-  `,
+  host: { class: "block" },
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class SvgMusicIconComponent {}
