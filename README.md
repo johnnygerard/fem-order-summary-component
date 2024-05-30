@@ -24,7 +24,6 @@ This is my solution to the [Order summary component challenge](https://www.front
 
 <!-- ## Key Features -->
 
-
 ## Automated Tasks
 
 - Project initialization with shell script
@@ -44,22 +43,12 @@ This is my solution to the [Order summary component challenge](https://www.front
 - [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=angular.ng-template)
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) (Angular 18 is not yet supported, see https://github.com/angular-eslint/angular-eslint/pull/1830)
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=github.copilot) (active subscription required)
 
-<!-- ## Screenshots
-
-### Mobile
+## Screenshot (Mobile)
 
 ![mobile screenshot](screenshots/mobile.avif)
-
-### Tablet
-
-![tablet screenshot](screenshots/tablet.avif)
-
-### Desktop
-
-![desktop screenshot](screenshots/desktop.avif) -->
 
 ## About Frontend Mentor
 
