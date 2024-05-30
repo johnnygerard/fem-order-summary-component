@@ -1,10 +1,11 @@
 import { ChangeDetectionStrategy, Component } from "@angular/core";
 import { SvgMusicIconComponent } from "../svg/svg-music-icon.component";
+import { SvgHeroComponent } from "../svg/svg-hero.component";
 
 @Component({
   selector: "app-order-summary",
   standalone: true,
-  imports: [SvgMusicIconComponent],
+  imports: [SvgHeroComponent, SvgMusicIconComponent],
   templateUrl: "./order-summary.component.html",
   changeDetection: ChangeDetectionStrategy.OnPush,
   host: {
