@@ -1,6 +1,6 @@
 # Frontend Mentor | Order summary component
 
-This is my solution to the [Order summary component challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub) from [Frontend Mentor](https://www.frontendmentor.io/).
+This is my solution to the [Order summary component challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj) from [Frontend Mentor](https://www.frontendmentor.io/).
 
 [![project status](https://img.shields.io/badge/status-solution%20published-success?style=for-the-badge)](https://www.frontendmentor.io/solutions/order-summary-component-7rXtKz2dSF)
 
@@ -8,7 +8,7 @@ This is my solution to the [Order summary component challenge](https://www.front
 
 - [Live website](https://fem-order-summary-component-jgerard.vercel.app)
 - [Solution](https://www.frontendmentor.io/solutions/order-summary-component-7rXtKz2dSF)
-- [Challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub)
+- [Challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
 - [Lighthouse report](https://googlechrome.github.io/lighthouse/viewer/?gist=87c2b6335a828656a774419c84ef0b92)
 
 ## Tech Stack
