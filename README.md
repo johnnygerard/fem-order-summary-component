@@ -9,7 +9,7 @@ This is my solution to the [Order summary component challenge](https://www.front
 - [Live website](https://fem-order-summary-component-jgerard.vercel.app)
 - [Solution](https://www.frontendmentor.io/solutions/order-summary-component-7rXtKz2dSF)
 - [Challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub)
-<!-- - [Lighthouse report](https://googlechrome.github.io/lighthouse/viewer/?gist=placeholder) -->
+- [Lighthouse report](https://googlechrome.github.io/lighthouse/viewer/?gist=87c2b6335a828656a774419c84ef0b92)
 
 ## Tech Stack
 
