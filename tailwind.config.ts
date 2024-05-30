@@ -14,7 +14,11 @@ export default {
         main: "0px 40px 40px -20px rgba(13, 48, 189, 0.15)",
       },
       colors: {
+        accent: "#382ae1",
+        "accent-light": "#766cf1",
+        body: "#717fa6",
         canvas: "#e0e8ff",
+        heading: "#1f2e55",
       },
       fontFamily: {
         sans: ["'Red Hat Display'", ...defaultTheme.fontFamily.sans],
