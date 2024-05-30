@@ -2,12 +2,12 @@
 
 This is my solution to the [Order summary component challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub) from [Frontend Mentor](https://www.frontendmentor.io/).
 
-[![project status](https://img.shields.io/badge/status-work%20in%20progress-red?style=for-the-badge)](https://fem-order-summary-component-jgerard.vercel.app)
+[![project status](https://img.shields.io/badge/status-solution%20published-success?style=for-the-badge)](https://www.frontendmentor.io/solutions/order-summary-component-7rXtKz2dSF)
 
 ## Links
 
 - [Live website](https://fem-order-summary-component-jgerard.vercel.app)
-<!-- - [Solution](placeholder) -->
+- [Solution](https://www.frontendmentor.io/solutions/order-summary-component-7rXtKz2dSF)
 - [Challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub)
 <!-- - [Lighthouse report](https://googlechrome.github.io/lighthouse/viewer/?gist=placeholder) -->
 
