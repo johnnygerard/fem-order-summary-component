@@ -1,15 +1,11 @@
 import { ChangeDetectionStrategy, Component } from "@angular/core";
+import { OrderSummaryComponent } from "./order-summary/order-summary.component";
 
 @Component({
   selector: "app-root",
   standalone: true,
-  imports: [],
+  imports: [OrderSummaryComponent],
   templateUrl: "./app.component.html",
-  styles: `
-    :host {
-      display: block;
-    }
-  `,
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class AppComponent {}
